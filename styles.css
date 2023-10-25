@@ -1,0 +1,153 @@
+body {
+    max-width: 1500px;
+    margin: 0 auto;
+    background-image: url(cloud.jpeg);
+    background-size: cover;
+}
+
+nav {
+    max-width: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    background-color: #92d4f7;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #92d4f7;
+    line-height: 1em;
+}
+
+nav ul li {
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    background-size: cover;
+    text-align: center;
+}
+
+li {
+    color: forestgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: none;
+}
+
+b {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    letter-spacing: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: rgb(238, 103, 188);
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(0, 54, 153);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    padding: 0;
+    text-align: center;
+    margin-top: 0px;
+}
+
+section {
+    padding: 1em;
+}
+
+figcaption {
+    font-family: monospace;
+}
+
+
+h6 {
+    font-size: x-small;
+    text-align: center;
+    margin: 0 auto;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+nav ul li {
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    background-size: cover;
+    text-align: center;
+}
+
+li {
+    color: forestgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style-type: none;
+}
+
+b {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    letter-spacing: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: rgb(238, 103, 188);
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(0, 54, 153);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: underline;
+    text-decoration-color: blueviolet;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    padding: 0;
+    text-align: center;
+    margin-top: 0px;
+}
+
+section {
+    padding: 1em;
+}
+
+figcaption {
+    font-family: monospace;
+}
+
+.logos {
+    display: flex inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h6 {
+    font-size: x-small;
+    text-align: center;
+    margin: 0 auto;
+    font-family: monospace;
+    font-weight: lighter;
+}
